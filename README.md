@@ -49,8 +49,8 @@ In this project, I designed and configured a small enterprise-style network with
 (Purpose: Automate IP address assignment and reduce manual configuration errors.)
 #
 # Takeaways and Challenges 
-A few things went wrong during this lab. I had a few Coding errors such as  (1) excluding the default gateway from EVERYTHING else. (I forgot to exclude it from DHCP and also fmistakely used it as end deveice IP address).
-Another coding error I had was (2) when creating the sub-interfaces for R1, I tried to assign an IP address first instead of establishing the Encapsulation is _802.1Q_. This resulted in the sub-interfaces not being up.  
+A few things went wrong during this lab. I had a few Coding errors such as  (1) excluding the default gateway from EVERYTHING else. (I forgot to exclude it from DHCP and also mistakely used it as end device IP address).
+Another coding error I had was (2) when creating the sub-interfaces for R1, I tried to assign an IP address first instead of setting the Encapsulation is _802.1Q_. This resulted in the sub-interfaces not being up.  
 
 # Skills Learned:  
 
