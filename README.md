@@ -1,4 +1,4 @@
-# Lab 1:. Small Enterprise Network with VLANs, Inter-VLAN Routing, and DHCP
+# Small Enterprise Network with VLANs, Inter-VLAN Routing, and DHCP
 
 # Lab Overview:
 Over the past week, I completed a practical networking lab using Cisco Packet Tracer to strengthen my understanding of real-world network design and configuration. 
